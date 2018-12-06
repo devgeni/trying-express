@@ -1,0 +1,14 @@
+{
+  "name": "trying-express",
+  "version": "1.0.0",
+  "description": "Just trying express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
